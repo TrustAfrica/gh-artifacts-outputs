@@ -43,4 +43,4 @@ jobs:
         with:
           name: dist-files
       - name: Output Contents
-        run: ls -la dist/
+        run: ls
